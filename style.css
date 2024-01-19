@@ -1,5 +1,5 @@
 body {
-color: green;
+color:white;
 
 
 
@@ -10,4 +10,9 @@ background-color: black;
 margin: 10% 30% ;
 
 font-family: Arial narrow ;
+}
+
+body{
+  background: url(https://www.zingerbug.com/Backgrounds/background_images/starry_sky_glitter_background_seamless.gif);
+  background-size: auto;
 }
