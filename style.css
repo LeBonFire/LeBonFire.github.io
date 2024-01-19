@@ -22,14 +22,14 @@ body
 .headers 
 { 
   text-align: center;
-border-top: 5px solid grey;
-border-bottom:5px solid grey;
+border-top: 2px solid grey;
+border-bottom: .5px solid grey;
   }
 
 .jobtitle 
 {
   text-transform: uppercase  ;
-  background-color:hsla(0, 0%, 35%, 5);
+  background-color:hsla(0, 0%, 40%, .5);
   font-family: times roman;
 }
 
