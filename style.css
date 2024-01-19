@@ -16,3 +16,8 @@ body{
   background: url(https://www.zingerbug.com/Backgrounds/background_images/starry_sky_glitter_background_seamless.gif);
   background-size: auto;
 }
+
+.header { text-align: center;
+border-top: 3px solid grey;
+border-bottom:3px solid grey;
+}
